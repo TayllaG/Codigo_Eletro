@@ -1,0 +1,111 @@
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.exe
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.deps.json
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.runtimeconfig.json
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.dll
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.pdb
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.AssemblyReference.cache
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Form1.resources
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Form2_RealizarVenda.resources
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Properties.Resources.resources
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.GenerateResource.cache
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.AssemblyInfoInputs.cache
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.AssemblyInfo.cs
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.CoreCompileInputs.cache
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.dll
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\refint\Loja de Eletronicos.dll
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.pdb
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.genruntimeconfig.cache
+C:\Users\tayll\source\repos\Loja de Eletronicos\Loja de Eletronicos\obj\Debug\net6.0-windows\ref\Loja de Eletronicos.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.AssemblyReference.cache
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.ResolveComReference.cache
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Cadastrar_Produto.resources
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Form1.resources
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Form2_RealizarVenda.resources
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Form3_VisualizarEstoque.resources
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Properties.Resources.resources
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.GenerateResource.cache
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.AssemblyInfoInputs.cache
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.AssemblyInfo.cs
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.CoreCompileInputs.cache
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\refint\Loja de Eletronicos.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.pdb
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.exe
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.deps.json
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.runtimeconfig.json
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.pdb
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.CopyComplete
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.genruntimeconfig.cache
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\ref\Loja de Eletronicos.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Duda\Downloads\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.AssemblyReference.cache
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.ResolveComReference.cache
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Properties.Resources.resources
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Cadastrar_Produto.resources
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Form1.resources
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Form2_RealizarVenda.resources
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja_de_Eletronicos.Form3_VisualizarEstoque.resources
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.GenerateResource.cache
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.AssemblyInfoInputs.cache
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.AssemblyInfo.cs
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.CoreCompileInputs.cache
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\refint\Loja de Eletronicos.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.pdb
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.exe
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.deps.json
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.runtimeconfig.json
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Loja de Eletronicos.pdb
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Irony.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\XLParser.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.csproj.CopyComplete
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\Loja de Eletronicos.genruntimeconfig.cache
+C:\Users\tayll\Downloads\Loja_Eletronica-mainf\Loja_Eletronica-main\Loja de Eletronicos\obj\Debug\net6.0-windows\ref\Loja de Eletronicos.dll
